@@ -60,5 +60,5 @@ php index.php
 
 Nada Asfour  
 Backend Developer (PHP & Laravel)
-1. Clone the repository:
+
 
